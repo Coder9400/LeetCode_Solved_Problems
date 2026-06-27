@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
