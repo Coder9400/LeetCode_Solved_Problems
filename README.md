@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
