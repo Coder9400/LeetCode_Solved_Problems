@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
