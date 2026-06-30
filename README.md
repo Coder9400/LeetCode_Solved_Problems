@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
 ## Recursion
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
