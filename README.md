@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0229-majority-element-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
