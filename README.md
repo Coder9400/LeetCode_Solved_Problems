@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
