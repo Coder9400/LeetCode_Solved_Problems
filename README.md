@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Recursion
@@ -269,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
