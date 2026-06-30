@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0412-fizz-buzz) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2211-count-collisions-on-a-road](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2211-count-collisions-on-a-road) |
