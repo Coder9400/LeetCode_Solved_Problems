@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -228,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -252,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0100-same-tree) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
