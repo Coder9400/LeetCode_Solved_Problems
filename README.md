@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3583-count-special-triplets](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3583-count-special-triplets) |
 ## Linked List
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [3583-count-special-triplets](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3583-count-special-triplets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
