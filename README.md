@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
