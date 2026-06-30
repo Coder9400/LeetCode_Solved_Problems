@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2211-count-collisions-on-a-road](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2211-count-collisions-on-a-road) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2211-count-collisions-on-a-road](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2211-count-collisions-on-a-road) |
 ## Backtracking
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0143-reorder-list) |
+| [2211-count-collisions-on-a-road](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
 | ------- |
