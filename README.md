@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
