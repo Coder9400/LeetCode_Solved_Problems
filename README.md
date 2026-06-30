@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
