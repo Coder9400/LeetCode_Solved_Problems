@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0011-container-with-most-water) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Trie
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
 | ------- |
