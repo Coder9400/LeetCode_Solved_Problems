@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0152-maximum-product-subarray) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Quickselect
 |  |
 | ------- |
