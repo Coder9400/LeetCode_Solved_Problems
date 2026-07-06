@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2211-count-collisions-on-a-road](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2211-count-collisions-on-a-road) |
