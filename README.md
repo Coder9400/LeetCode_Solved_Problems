@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2211-count-collisions-on-a-road](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2211-count-collisions-on-a-road) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0724-find-pivot-index) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
