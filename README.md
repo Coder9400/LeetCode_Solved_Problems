@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1539-kth-missing-positive-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
