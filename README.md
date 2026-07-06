@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0912-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0567-permutation-in-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3583-count-special-triplets](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3583-count-special-triplets) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3583-count-special-triplets](https://github.com/Coder9400/LeetCode_Solved_Problems/tree/master/3583-count-special-triplets) |
 ## Heap (Priority Queue)
 |  |
